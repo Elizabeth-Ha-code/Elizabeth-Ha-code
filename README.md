@@ -1,7 +1,8 @@
 ## SALUDO 😁 
 
 **DESARROLLADORA DE SOFTWARE** 💻🖱️
-**Me gusta :**
+
+**Me gusta:**
 
 - La música 🎼
 - El deporte 🏐
